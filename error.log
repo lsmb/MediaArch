@@ -1,0 +1,30 @@
+[0;37mgallery-dl: Version 1.17.4[0m
+[0;37mgallery-dl: Python 3.9.2 - Linux-5.11.10-zen1-1-zen-x86_64-with-glibc2.33[0m
+[0;37mgallery-dl: requests 2.25.1 - urllib3 1.26.3[0m
+[0;37mgallery-dl: Starting DownloadJob for 'https://imgur.com/Z4uUUzFss'[0m
+[0;37mimgur: Using ImgurImageExtractor for 'https://imgur.com/Z4uUUzFss'[0m
+[0;37murllib3.connectionpool: Starting new HTTPS connection (1): api.imgur.com:443[0m
+[0;37murllib3.connectionpool: https://api.imgur.com:443 "GET /post/v1/media/Z4uUUzF?include=media%2Ctags%2Caccount HTTP/1.1" 200 435[0m
+[0;37mgallery-dl: Version 1.17.4[0m
+[0;37mgallery-dl: Python 3.9.2 - Linux-5.11.10-zen1-1-zen-x86_64-with-glibc2.33[0m
+[0;37mgallery-dl: requests 2.25.1 - urllib3 1.26.3[0m
+[0;37mgallery-dl: Starting DownloadJob for 'https://imgur.com/Z4uUUzFss'[0m
+[0;37mimgur: Using ImgurImageExtractor for 'https://imgur.com/Z4uUUzFss'[0m
+[0;37murllib3.connectionpool: Starting new HTTPS connection (1): api.imgur.com:443[0m
+[0;37murllib3.connectionpool: https://api.imgur.com:443 "GET /post/v1/media/Z4uUUzF?include=media%2Ctags%2Caccount HTTP/1.1" 200 435[0m
+[0;37mgallery-dl: Version 1.17.4[0m
+[0;37mgallery-dl: Python 3.9.2 - Linux-5.11.10-zen1-1-zen-x86_64-with-glibc2.33[0m
+[0;37mgallery-dl: requests 2.25.1 - urllib3 1.26.3[0m
+[0;37mgallery-dl: Starting DownloadJob for 'https://imgur.com/Z4uUUzFss'[0m
+[0;37mimgur: Using ImgurImageExtractor for 'https://imgur.com/Z4uUUzFss'[0m
+[0;37murllib3.connectionpool: Starting new HTTPS connection (1): api.imgur.com:443[0m
+[0;37murllib3.connectionpool: https://api.imgur.com:443 "GET /post/v1/media/Z4uUUzF?include=media%2Ctags%2Caccount HTTP/1.1" 200 435[0m
+[0;37mgallery-dl: Version 1.17.4[0m
+[0;37mgallery-dl: Python 3.9.2 - Linux-5.11.10-zen1-1-zen-x86_64-with-glibc2.33[0m
+[0;37mgallery-dl: requests 2.25.1 - urllib3 1.26.3[0m
+[0;37mgallery-dl: Starting DownloadJob for 'https://imgur.com/Z4uUUzFss'[0m
+[0;37mimgur: Using ImgurImageExtractor for 'https://imgur.com/Z4uUUzFss'[0m
+[0;37murllib3.connectionpool: Starting new HTTPS connection (1): api.imgur.com:443[0m
+[0;37murllib3.connectionpool: https://api.imgur.com:443 "GET /post/v1/media/Z4uUUzF?include=media%2Ctags%2Caccount HTTP/1.1" 200 435[0m
+[0;37murllib3.connectionpool: Starting new HTTPS connection (1): i.imgur.com:443[0m
+[0;37murllib3.connectionpool: https://i.imgur.com:443 "GET /Z4uUUzF.jpg HTTP/1.1" 200 354729[0m
